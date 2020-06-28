@@ -1,0 +1,179 @@
+.slie_img{
+	width: 100%;
+	height: 315px;
+	/*background-image: url(../img/w2.jpg);background-repeat: no-repeat;*/
+}
+.slie_img img{
+	width: 100%;
+	height: 100%;
+}
+.app_content1{
+	width: 100%;
+	height: 216px;
+	
+}
+.app_content1_c{
+	width: 1200px;
+	height: 100%;
+	margin: 0 auto;
+	text-align: center;
+	line-height: 35px;
+	cursor: pointer; 
+}
+.app_content1_c_1{
+	font-size: 26px;
+	font-family: "microsoft yahei";
+	color: #06B3B9;
+	padding-top: 60px;
+}
+.app_content1_c_2{
+	font-size: 14px;
+	color: #737373;
+}
+.app_content1_c_3{
+	font-size: 18px;
+	color:#06B3B9; 
+}
+/*主体介绍*/
+.content_view{
+	width: 100%;
+	cursor: pointer; 
+}
+.content_view_c{
+	width: 1200px;
+	margin: 0 auto;
+	/*border: 1px solid seagreen;*/
+}
+.content_view_c_c{
+	width: 100%;
+	height: 426px;
+	border-bottom: 1px solid #E5E5E5;
+	border-top: 1px solid #E5E5E5;
+	padding: 0px 0px 0 10px;
+}
+.imgstyle{
+	width: 360px;
+	height: 360px;
+	float: left;
+	margin: 30px 100px;
+}
+.imgstyle img{
+	width: 100%;
+	height: 100%;
+}
+.content_view_c_text{
+	width: 500px;
+	height: 360px;/*
+	border: 1px solid seagreen;*/
+	float: left;
+	margin: 30px 60px;
+	display:table-cell;
+	vertical-align:middle;
+	
+}
+.c_v_text_title{
+	font-size: 18px;
+	font-weight: 700;
+	margin-bottom: 15px;
+	margin-top: 30px;
+}
+.c_v_text_cont{
+	font-size: 16px;
+	line-height: 30px;
+}
+/*通知公告*/
+.notice_content{
+	width:100%;
+	height: 84px;
+	margin-bottom: 50px;
+}
+.notice_content_c{
+	width:1200px;
+	height: 100%;
+	margin: 0 auto;
+	cursor: pointer; 
+}
+.notice_content_c1{
+	width: 100%;
+	height: 22.5;
+	color: #000000;
+	font-size: 16px;
+}
+.notice_content_c2{
+	font-size: 12px;
+	color: #ADADAD;
+	padding: 12px 0px 0px;
+	border-bottom: 1px solid #EEEEEE;
+}
+/*常见问题*/
+.content_faq1{
+	width: 100%;
+}
+.content_faq_c{
+	width: 1200px;
+	margin: 0 auto;
+}
+.content_faq_c_c{
+	width: 100%;
+	border-bottom: 1px solid #E5E5E5;
+	border-top: 1px solid #E5E5E5;
+	padding: 20px 20px;
+	/*line-height: 26px;*/
+	cursor: pointer; 
+}
+.content_faq{
+	line-height: 35px;
+}
+.content_faq h3{
+	font-size: 18px;
+	color: #06b2b6;
+}
+#b_pro{
+	width: 300px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #7f7f7f;
+	box-sizing: border-box;
+}
+#ans{
+	box-sizing: border-box;
+    font-size: 14px;
+    color: #7f7f7f;
+    
+    font-weight: normal
+}
+/*关于我们*/
+.ab_us{
+	width: 100%;
+	height: 367px;
+}
+.ab_us_c{
+	width: 1200px;
+	height: 100%;
+	/*border: 1px solid seagreen;*/
+	margin: 0 auto;
+	cursor: pointer; 
+}
+.ab_us_text_l{
+	width: 340px;
+	height: 254px;
+	float: left;
+	margin: 25px 10px;
+}
+.ab_us_text_l img{
+	width: 100%;
+	height: 100%;
+}
+.ab_us_text_r{
+	width: 808px;
+	float:left;
+	font-family: 宋体;
+    font-size: 16px;
+    color: #666666;
+    margin: 20px 10px;
+}
+.ab_us_text_r h3{
+	font-size: 24px;
+    color: #333333;
+    font-family: "微软雅黑";
+}
